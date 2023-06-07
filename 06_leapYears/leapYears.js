@@ -3,7 +3,7 @@ const leapYears = function (year) {
     return true;
   } else return false;
 };
-//todo REDO ONLY ONE LINE, hint: it does go low to high comparasion
+//todo REDO and remember: 'unless 'in the question was a hint for ||
 
 console.log(leapYears(2000));
 
